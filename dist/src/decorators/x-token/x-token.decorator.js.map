@@ -1,0 +1,1 @@
+{"version":3,"file":"x-token.decorator.js","sourceRoot":"","sources":["../../../../src/decorators/x-token/x-token.decorator.ts"],"names":[],"mappings":";;;AAAA,2CAAqF;AAGxE,QAAA,MAAM,GAAG,IAAA,6BAAoB,EACtC,CAAC,IAAY,EAAE,GAAqB,EAAE,EAAE;IACpC,MAAM,OAAO,GAAa,GAAG,CAAC,YAAY,EAAE,CAAC,UAAU,EAAE,CAAC;IAC1D,OAAO,OAAO,CAAC,OAAO,CAAC,SAAS,CAAC,CAAC;AACtC,CAAC,CACJ,CAAA"}
